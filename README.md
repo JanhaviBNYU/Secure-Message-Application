@@ -1,1 +1,1 @@
-# Secure-Message-Application 
+# Secure Message Application 
